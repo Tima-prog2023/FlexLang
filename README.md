@@ -1,5 +1,5 @@
 <div algin="center">
-    <img src="logo FlexLang.png" width="300">
+    <img src="flexlang_logo.png" width="300">
 </div>
 
 # FlexLang
