@@ -1,3 +1,7 @@
+<div algin="center">
+    <img src="C:\Users\Admin\Desktop\flexlang\flexlang_logo.png" width="300">
+</div>
+
 # FlexLang
 FlexLang - my mini programing language. FlexLang is intended to be a scripting and object-oriented programming language. But so far its functionality is very small...but FlexLang will constantly evolve
 
